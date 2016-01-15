@@ -25,6 +25,8 @@ namespace TextSpel
             }
 
             Console.ReadKey();
+
+            // hej theo! //////////
             
 
         }
