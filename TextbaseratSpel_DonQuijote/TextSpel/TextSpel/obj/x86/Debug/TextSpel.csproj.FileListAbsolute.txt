@@ -1,0 +1,4 @@
+C:\Users\harald\Dropbox\GitHub\C-sharp\TextbaseratSpel_DonQuijote\TextSpel\TextSpel\bin\Debug\TextSpel.exe
+C:\Users\harald\Dropbox\GitHub\C-sharp\TextbaseratSpel_DonQuijote\TextSpel\TextSpel\bin\Debug\TextSpel.pdb
+C:\Users\harald\Dropbox\GitHub\C-sharp\TextbaseratSpel_DonQuijote\TextSpel\TextSpel\obj\x86\Debug\TextSpel.exe
+C:\Users\harald\Dropbox\GitHub\C-sharp\TextbaseratSpel_DonQuijote\TextSpel\TextSpel\obj\x86\Debug\TextSpel.pdb
